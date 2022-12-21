@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note2</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">search_notes</string>
+    <string name="note_title">標題</string>
+    <string name="type_note_here">請輸入點什麼</string>
+    <string name="note_subtitle">副本</string>
+    <string name="pick_color">選擇顏色</string>
+    <string name="layout_miscellaneous">面板</string>
+</resources>
